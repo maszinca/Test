@@ -1,7 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to Sammys documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+**Sammy** (/lu'make/) is a IT Specialist who loves his work and adventures. 
+
+He's particularly good with few things and he doesn't want to share it in the public. 
+
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
@@ -20,3 +23,4 @@ Contents
 
    usage
    api
+   sz page 3
